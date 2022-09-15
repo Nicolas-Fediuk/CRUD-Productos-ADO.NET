@@ -3204,11 +3204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nfediuk\\Desktop\\CRUDproductos\\CRUDproductos\\CRUDproductos.csproj",
+      "projectUniqueName": "C:\\Users\\nfediuk\\Desktop\\CRUD-Productos-ADO.NET\\CRUDproductos\\CRUDproductos.csproj",
       "projectName": "CRUDproductos",
-      "projectPath": "C:\\Users\\nfediuk\\Desktop\\CRUDproductos\\CRUDproductos\\CRUDproductos.csproj",
+      "projectPath": "C:\\Users\\nfediuk\\Desktop\\CRUD-Productos-ADO.NET\\CRUDproductos\\CRUDproductos.csproj",
       "packagesPath": "C:\\Users\\nfediuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nfediuk\\Desktop\\CRUDproductos\\CRUDproductos\\obj\\",
+      "outputPath": "C:\\Users\\nfediuk\\Desktop\\CRUD-Productos-ADO.NET\\CRUDproductos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3229,11 +3229,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\nfediuk\\Desktop\\CRUDproductos\\Dato\\Dato.csproj": {
-              "projectPath": "C:\\Users\\nfediuk\\Desktop\\CRUDproductos\\Dato\\Dato.csproj"
+            "C:\\Users\\nfediuk\\Desktop\\CRUD-Productos-ADO.NET\\Dato\\Dato.csproj": {
+              "projectPath": "C:\\Users\\nfediuk\\Desktop\\CRUD-Productos-ADO.NET\\Dato\\Dato.csproj"
             },
-            "C:\\Users\\nfediuk\\Desktop\\CRUDproductos\\Entidad\\Entidad.csproj": {
-              "projectPath": "C:\\Users\\nfediuk\\Desktop\\CRUDproductos\\Entidad\\Entidad.csproj"
+            "C:\\Users\\nfediuk\\Desktop\\CRUD-Productos-ADO.NET\\Entidad\\Entidad.csproj": {
+              "projectPath": "C:\\Users\\nfediuk\\Desktop\\CRUD-Productos-ADO.NET\\Entidad\\Entidad.csproj"
             }
           }
         }

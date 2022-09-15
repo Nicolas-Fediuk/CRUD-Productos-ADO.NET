@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9iQ7KlDiA7Zretr+BY9e1HbXBlMavFJBeiTCZ9YekUQxOsFqfON2I+UP/ZZlwJgEllcZv4jy7xfxr59ZGwGX1Q==",
+  "dgSpecHash": "rMRf3WPJqhwp3+4SHpbqI5PjIxJHKoYBpVb/Gn1uoYd3HwjQlanaBwYSqxRJmhMqDKLJNjh+5kpVmE72ddXPLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nfediuk\\Desktop\\CRUDproductos\\Entidad\\Entidad.csproj",
+  "projectFilePath": "C:\\Users\\nfediuk\\Desktop\\CRUD-Productos-ADO.NET\\Entidad\\Entidad.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

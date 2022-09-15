@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tCzerWWqm23e0AGxuMgTvVYt8/5okjSRl+SCe3pdaEQS2krdFE+wfYhDuDN2nQ2azL3fYE0Zgi5cWpWlOm7e7A==",
+  "dgSpecHash": "JM9XXlMGre49bFDExJamG2wXtU7fPlkvkMtzYkHsHUszKLUdGchk+NM0sw1s21OWQDBEPUZdUBRIkS3X4zg0hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nfediuk\\Desktop\\CRUDproductos\\Dato\\Dato.csproj",
+  "projectFilePath": "C:\\Users\\nfediuk\\Desktop\\CRUD-Productos-ADO.NET\\Dato\\Dato.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nfediuk\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\nfediuk\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
