@@ -66,6 +66,11 @@ namespace CRUDproductos
             }
             else
             {
+                if(Convert.ToInt16(txtPrecio.Text) == 0)
+                {
+                    KryptonMessageBox.Show("El precio no puede ser 0", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
                 //edito un producto
                 dao.Edit(txtNombre.Text, Convert.ToDecimal(txtPrecio.Text), (int)Id);
             }
